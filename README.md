@@ -8,6 +8,8 @@
     transformers==2.1.0
     tqdm
     nltk
+    numpy
+    pandas
 ## glove embedding
   place pretrained glove embedding in folder "code/vector_cache/" for att_bilstm model.
   example:   "relation_classification/code/vector_cache/glove.6B.200d.txt"
